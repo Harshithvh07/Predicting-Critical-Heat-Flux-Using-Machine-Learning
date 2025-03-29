@@ -69,7 +69,7 @@ pip install pandas seaborn matplotlib scikit-learn
 
 ### Running the Project
 1. Place the dataset in the same directory as the script.
-2. Run `python heat_flux.ipyb` to execute the analysis.
+2. Run `python heat_flux.ipynb` to execute the analysis.
 3. Review the correlation heatmap, feature importance plots, and model results.
 
 ---
